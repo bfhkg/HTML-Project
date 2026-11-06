@@ -1,0 +1,62 @@
+
+/* GENERAL SECTION */
+
+section {
+    font-family: Arial, sans-serif;
+    color: #222222;
+    background-color: #ffffff;
+}
+
+section p {
+    color: #777777;
+}
+
+
+/* REVIEWS SECTION */
+
+.reviews {
+    font-family: Arial, sans-serif;
+    color: #222222;
+    background-color: #ffffff;
+}
+
+.reviews img {
+    width: 40px;
+    height: 40px;
+}
+
+
+/* SERVICES SECTION */
+
+.services {
+    font-family: Arial, sans-serif;
+    color: #222222;
+    background-color: #ffffff;
+}
+
+
+/* FINAL CTA SECTION */
+
+.cta {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #17191b;
+}
+
+.cta a {
+    color: #222222;
+    background-color: #c49a78;
+}
+
+
+/* FOOTER SECTION */
+
+footer {
+    font-family: Arial, sans-serif;
+    color: white;
+    background-color: #17191b;
+}
+
+footer a {
+    color: white;
+}
